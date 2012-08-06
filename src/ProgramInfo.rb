@@ -1,0 +1,2 @@
+PROGRAM_NAME = "k4free server"
+PROGRAM_VERSION = "0.6"

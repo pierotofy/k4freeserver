@@ -1,0 +1,19 @@
+k4freeserver 0.6 (C) Piero Toffanin 2011
+----------------------------------------
+
+This program emulates the ads server adpublisher.s3.amazonaws.com. You need administrative privileges to run the program. A webserver will open on port 80. You can place your screensaver images in .gif indexed color 600x800px in the k4freeserver/Ads/Screensavers. This server can be used only once after the Kindle has been reset to factory defaults. The number of ads that can be fed to the Kindle is dependent upon the number of ads Amazon decides to push. Usually you can put up to 10 screensavers in the folder knowing that they will all go through.
+
+More information is available on http://www.pierotoffanin.com
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>. 

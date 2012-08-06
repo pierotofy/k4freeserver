@@ -1,0 +1,28 @@
+
+  
+
+
+<root version="2.0" defaultDiv="id_B003F3FJGY" cacheFile="{AD_ID}">
+<menu-items>
+	<menu-item name="Shop in Kindle Store" link="https://www.amazon.com/gp/g7g/xyml1/storefront.xml" div="storefront_ACEF0UTBJP4OF"/>
+</menu-items>
+<instructions>
+<div name="id_B003F3FJGY">
+
+<text x="15" y="90" width="600" height="75">
+    <span size="+2"><b>Enjoy your Ad-Free Kindle!</b></span>
+</text>
+
+
+<text x="15" y="140" width="570" height="500" lineMargin="24">
+    <span size="-2">This page is simply here as a replacement for the ads that would have come up if you didn't free your Kindle.
+</span>
+</text>
+
+
+</div>
+</instructions>
+</root>
+
+
+  
